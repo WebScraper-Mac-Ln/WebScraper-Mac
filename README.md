@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://peacockmedia.software/images/WSv2-icon-256.png" width="200" alt="WebScraper macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/WebScraper">
+ <a href="https://gnomik-gomik-apps.github.io/.github/WebScraper">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open WebScraper macOS page">
  </a><br><br>
  <div align="center">
